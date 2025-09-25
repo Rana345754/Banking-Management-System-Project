@@ -2,7 +2,7 @@
 ###### This is a web based scripting website
 
 ##  Installation process
-Import that sql folder in in phpadmin and then once its successful then using localhost have to open the website.
+Import that sql folder in phpadmin and then once its successful then using localhost have to open the website.
 
 ## Running the website
 base_url = "http://localhost/bank/"
