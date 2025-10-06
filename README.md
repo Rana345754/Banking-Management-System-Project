@@ -5,7 +5,7 @@
 Import that sql folder in phpadmin and then once its successful then using localhost have to open the website.
 
 ## Running the website
-base_url = "http://localhost/bank/"
+base_url = http://localhost/bank/
 
 
 
